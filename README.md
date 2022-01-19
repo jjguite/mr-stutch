@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mr-stutch
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on literally anything
+- 🌱 First-year CS student
 - 📫 How to reach me: @Stutch#2693 (Discord)
 
 <!---
