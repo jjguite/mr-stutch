@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mr-stutch
-- 🌱 First-year CS student
+- 🌱 I'm a first-year CS student
 - 📫 How to reach me: @Stutch#2693 (Discord)
 
 <!---
